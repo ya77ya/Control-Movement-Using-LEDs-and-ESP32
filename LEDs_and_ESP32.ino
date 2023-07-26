@@ -13,6 +13,8 @@ void setup() {
   pinMode(26, OUTPUT);
   pinMode(27, OUTPUT);
   pinMode(14, OUTPUT);
+  pinMode(18, OUTPUT);
+  
 
   Serial.print("Connecting to WiFi");
   while (WiFi.status() != WL_CONNECTED) {
@@ -51,7 +53,10 @@ void loop() {
     }
     if( payload == "backward" ){
       digitalWrite(14, HIGH);
-    }    
+    }   
+    if( payload == "stop" ){
+      digitalWrite(18, HIGH);
+    }
   }
   else {
     Serial.print("Error code: ");

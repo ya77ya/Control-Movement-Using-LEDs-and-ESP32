@@ -10,7 +10,8 @@ Control the movements of the robot which are forward, backward, right, and left 
 https://s-m.com.sa/f.html
 ```
 
-![forward](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/90173a35-703e-4596-a77d-c6c16a2f1620)
+![forward](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/76bab878-0e90-4b59-a5c5-1360912ef8c6)
+
 
 ## Backward Direction
  The word "forward" appears on the webpage, its LED will turn on and the word "forward" will appear on the serial monitor.
@@ -18,7 +19,8 @@ https://s-m.com.sa/f.html
 https://s-m.com.sa/b.html
 ```
 
-![backwad](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/8d4004ef-7585-499c-9473-799cb2388c46)
+![backwad](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/f571cd00-6596-4f7f-8bbd-7592bb7e4043)
+
 
 ## Right Direction
  The word "forward" appears on the webpage, its LED will turn on and the word "forward" will appear on the serial monitor.
@@ -26,7 +28,8 @@ https://s-m.com.sa/b.html
 https://s-m.com.sa/r.html
 ```
 
-![right](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/c82a17c4-d2ee-4dca-8cbc-9b107dadffb7)
+![right](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/6a26e6eb-e161-4cc8-8155-598b617c1860)
+
 
 ## Left Direction
  The word "left" appears on the webpage, its LED will turn on and the word "forward" will appear on the serial monitor.
@@ -34,4 +37,14 @@ https://s-m.com.sa/r.html
 https://s-m.com.sa/l.html
 ```
 
-![left](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/2e9c7d54-34f6-4f9e-95e4-331961088086)
+![left](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/284ffa09-34a6-4b23-8df0-0cdca5363584)
+
+
+## Stop
+ The word "stop" appears on the webpage, its LED will turn on and the word "forward" will appear on the serial monitor.
+```
+https://s-m.com.sa/s.html
+```
+
+![stop](https://github.com/ya77ya/Control-Movement-Using-LEDs-and-ESP32/assets/90250848/c0a2630f-c51e-4ca7-a65c-813d220fc226)
+

@@ -1,9 +1,10 @@
 # Control-Movement-Using-LEDs-and-ESP32
 Control the Movement of the Robot Using Four LEDs and ESP32 by IoT
 
-Control the movements of the robot which are forward, backward, right, and left by using four LEDs indicators and showing the direction in the serial monitor by Iot. **wokwi** website used to simulate the Esp32.
+Control the movements of the robot which are forward, backward, right, left, and stop by using four LEDs indicators and showing the direction in the serial monitor by Iot. **wokwi** website used to simulate the Esp32.
 
  There are four website pages for four directions:
+ 
  ## Forward Direction
  The word "forward" appears on the webpage, its LED will turn on and the word "forward" will appear on the serial monitor.
 ```
